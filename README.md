@@ -11,7 +11,7 @@
 
 A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a new landing page for their company. They've handed you the [design file](starter_code/design_file) for the site, along with the copy and assets. You need to take these files and turn it into a landing page.
 
-![Relaxr Landing Page](starter_code/images/relaxr_landing.jpg)
+![Relaxr Landing Page](https://github.com/FEWD80/homework-02-relaxr-landing-page/blob/master/images/relaxr_landing.jpg)
 
 <br>
 

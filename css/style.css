@@ -92,8 +92,8 @@ header h2 {
   width: 220px;
   height:50px;
   font-size: 20px;
-  margin-top:40px;
-  margin-left:310px;
+  margin: 40px auto 0px;
+  display:block;
   padding: 10px 40px 14px 40px;
   text-align: center;
 }
